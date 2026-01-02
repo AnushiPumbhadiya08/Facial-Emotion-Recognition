@@ -11,3 +11,11 @@ The goal of this project is to design and evaluate a deep learning–based syste
 - Extensive hyperparameter and component analysis
 
 - Robust evaluation across multiple dataset splits
+
+## Emotion Classes
+The model classifies facial expressions into the following four emotion categories:
+- Angry
+- Happy
+- Sad
+- Neutral
+- 
