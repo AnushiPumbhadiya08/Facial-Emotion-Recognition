@@ -131,8 +131,3 @@ The final model achieved the following results:
 
 ## Conclusion
 This project demonstrates a complete deep learning pipeline for Facial Emotion Recognition, incorporating preprocessing, CNN-based modeling, experimental evaluation, and analysis. The approach highlights the importance of data quality, architectural choices, and hyperparameter tuning in building effective FER systems.
-
-## Contributors
-Anushi Pumbhadiya (github.com/AnushiPumbhadiya08)
-
-Arjun Parikh (github.com/ArjunParikh1404)
